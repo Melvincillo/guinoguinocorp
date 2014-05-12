@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreManagement", "StoreManagement\StoreManagement.csproj", "{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreManagement.Business", "StoreManagement.Business\StoreManagement.Business.csproj", "{30F7AD65-03D9-46A5-9F6E-F094DA0AA678}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreManagement.Models", "StoreManagement.Models\StoreManagement.Models.csproj", "{7D168DE8-30EE-404B-8485-014C94E6EF3F}"
@@ -27,16 +25,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{0FBEDF8E-73C5-45D1-AD78-F4EB66D0A0E4}.Release|x86.ActiveCfg = Release|Any CPU
 		{30F7AD65-03D9-46A5-9F6E-F094DA0AA678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{30F7AD65-03D9-46A5-9F6E-F094DA0AA678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30F7AD65-03D9-46A5-9F6E-F094DA0AA678}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
